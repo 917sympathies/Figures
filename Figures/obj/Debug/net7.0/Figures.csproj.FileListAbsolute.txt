@@ -1,0 +1,11 @@
+D:\Developing\Projects\Figures\Figures\bin\Debug\net7.0\Figures.deps.json
+D:\Developing\Projects\Figures\Figures\bin\Debug\net7.0\Figures.dll
+D:\Developing\Projects\Figures\Figures\bin\Debug\net7.0\Figures.pdb
+D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\Figures.AssemblyInfoInputs.cache
+D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\Figures.AssemblyInfo.cs
+D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\Figures.csproj.CoreCompileInputs.cache
+D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\Figures.dll
+D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\refint\Figures.dll
+D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\Figures.pdb
+D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\ref\Figures.dll

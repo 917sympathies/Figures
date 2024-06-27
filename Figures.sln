@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figures", "Figures\Figures.csproj", "{96061B9D-998E-404D-999F-48F57F32456E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiguresTesting", "FiguresTesting\FiguresTesting.csproj", "{0A823737-24E3-42B2-A9FD-0771E810B8C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96061B9D-998E-404D-999F-48F57F32456E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96061B9D-998E-404D-999F-48F57F32456E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96061B9D-998E-404D-999F-48F57F32456E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96061B9D-998E-404D-999F-48F57F32456E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A823737-24E3-42B2-A9FD-0771E810B8C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A823737-24E3-42B2-A9FD-0771E810B8C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A823737-24E3-42B2-A9FD-0771E810B8C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A823737-24E3-42B2-A9FD-0771E810B8C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
