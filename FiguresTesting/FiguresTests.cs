@@ -1,5 +1,5 @@
 using Figures;
-using Figures.Models;
+using Figures.Shapes;
 
 namespace FiguresTesting;
 

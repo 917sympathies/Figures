@@ -1,6 +1,6 @@
-﻿namespace Figures;
+﻿namespace Figures.Interfaces;
 
-public interface ICircle
+public interface ICircle : IFigure
 {
     double Radius { get; }
 }

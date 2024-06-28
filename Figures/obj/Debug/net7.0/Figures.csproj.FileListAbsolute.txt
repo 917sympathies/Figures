@@ -9,3 +9,4 @@ D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\Figures.dll
 D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\refint\Figures.dll
 D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\Figures.pdb
 D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\ref\Figures.dll
+D:\Developing\Projects\Figures\Figures\obj\Debug\net7.0\Figures.sourcelink.json

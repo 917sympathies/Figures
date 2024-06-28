@@ -1,6 +1,6 @@
-﻿namespace Figures;
+﻿namespace Figures.Interfaces;
 
-public interface ITriangle
+public interface ITriangle : IFigure
 {
     int SideA { get; }
     int SideB { get; }

@@ -1,4 +1,6 @@
-﻿namespace Figures.Models;
+﻿using Figures.Interfaces;
+
+namespace Figures.Shapes;
 
 public class Triangle : Figure, ITriangle
 {
@@ -8,7 +10,7 @@ public class Triangle : Figure, ITriangle
     
     public Triangle(int sideA, int sideB, int sideC)
     {
-        if (sideA > sideB + sideC || sideB > sideA + sideC || sideC > sideA + sideB) 
+        if (sideA >= sideB + sideC || sideB >= sideA + sideC || sideC >= sideA + sideB) 
             throw new ArgumentException("Треугольник с такими сторонами не существует");
         SideA = sideA;
         SideB = sideB;

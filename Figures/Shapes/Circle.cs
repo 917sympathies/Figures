@@ -1,4 +1,6 @@
-﻿namespace Figures.Models;
+﻿using Figures.Interfaces;
+
+namespace Figures.Shapes;
 
 public class Circle : Figure, ICircle
 {
@@ -6,6 +8,7 @@ public class Circle : Figure, ICircle
     
     public Circle(double radius)
     {
+        if (radius <= 0) throw new ArgumentOutOfRangeException(nameof(radius), "Can't be less than or equal to zero");
         Radius = radius;
     }
     public override double GetArea()

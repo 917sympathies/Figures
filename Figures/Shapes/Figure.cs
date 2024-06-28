@@ -1,4 +1,6 @@
-﻿namespace Figures.Models;
+﻿using Figures.Interfaces;
+
+namespace Figures.Shapes;
 
 public abstract class Figure : IFigure
 {
